@@ -1,0 +1,25 @@
+
+
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+:root{
+    --maincolor: #4458dc;
+    --seccolor: #854fee;
+    --titlecolor: #141313;
+    --textcolor: #777777;
+    --bordercolor: #201f1f17;
+    --gradient-color:linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    --shadowcolor:0px 10px 30px rgba(118,85,61,0.3);
+    --boxshadow:0px 10px 30px rgba(57,56,61,0.205);
+
+    --roboto:'Robot Mono', monospace;
+}
